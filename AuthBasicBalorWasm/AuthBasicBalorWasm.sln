@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthBasicBalorWasm", "AuthBasicBalorWasm\AuthBasicBalorWasm.csproj", "{15780D07-AA39-43E6-9125-798FB4E25981}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthBasic", "AuthBasic\AuthBasic.csproj", "{9198A460-0873-4DBD-A700-9807F6AA32CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15780D07-AA39-43E6-9125-798FB4E25981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15780D07-AA39-43E6-9125-798FB4E25981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15780D07-AA39-43E6-9125-798FB4E25981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15780D07-AA39-43E6-9125-798FB4E25981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9198A460-0873-4DBD-A700-9807F6AA32CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9198A460-0873-4DBD-A700-9807F6AA32CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9198A460-0873-4DBD-A700-9807F6AA32CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9198A460-0873-4DBD-A700-9807F6AA32CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8011CB1-769F-43E1-8692-FD22F3D24CB3}
+	EndGlobalSection
+EndGlobal
