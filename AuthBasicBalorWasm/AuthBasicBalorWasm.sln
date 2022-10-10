@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthBasicBalorWasm", "AuthBasicBalorWasm\AuthBasicBalorWasm.csproj", "{15780D07-AA39-43E6-9125-798FB4E25981}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthBasicBalorWasm", "AuthBasicBalorWasm\AuthBasicBalorWasm.csproj", "{15780D07-AA39-43E6-9125-798FB4E25981}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthBasic", "AuthBasic\AuthBasic.csproj", "{9198A460-0873-4DBD-A700-9807F6AA32CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthBasic", "AuthBasic\AuthBasic.csproj", "{9198A460-0873-4DBD-A700-9807F6AA32CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
